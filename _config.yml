@@ -1,0 +1,28 @@
+name: ss
+favicon: null
+layout_spectrum: 0.18802234926261008
+typography_spectrum: 0.1351777350064367
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.30408345186151564
+  lightness: 0.5481863808818161
+  saturation: 0.6247610023710877
+  rhythmicContrast: 0.4989621681161225
+purpose: []
